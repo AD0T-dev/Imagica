@@ -4,6 +4,8 @@
 
 It is a simple image editor written in python.
 
+![picture alt]( "Title is optional")
+
 - - - -
 
 ### Supports: ###
