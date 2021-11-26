@@ -12,6 +12,8 @@ It is a simple image editor written in python.
 
 **Windows 7 and above**
 
+> Windows 11 not supported
+
 ### Modules used: ###
 
 * [PIL](https://pypi.org/project/Pillow/ "Pillow Module")
