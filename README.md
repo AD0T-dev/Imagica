@@ -4,7 +4,7 @@
 
 It is a simple image editor written in python.
 
-![picture alt]( "Title is optional")
+![icon](READMEfile/icon.png "icon")
 
 - - - -
 
