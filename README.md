@@ -4,8 +4,6 @@
 
 It is a simple image editor written in python.
 
-![icon](READMEfile/icon.png "icon")
-
 - - - -
 
 ### Supports: ###
